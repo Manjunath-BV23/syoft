@@ -1,0 +1,32 @@
+#main {
+    background-color: rgba(255,238,233,255);
+    /* border: 1px solid red; */
+}
+
+#img {
+    /* margin: 5% 30% 5% 30%; */
+    padding: 3% 3%;
+    justify-content: center;
+    /* border: 1px solid red; */
+}
+
+#img > img {
+    width: 80%;
+}
+#img form {
+    background-color: white;
+    width: 100%;
+    margin-top: -5%;
+    padding: 5% 0%;
+}
+
+#img button{
+    background-color: black;
+    color: white;
+    margin-left: 0px;
+    padding-top: 5px;
+}
+ .input {
+    height:30px;
+    width:80%
+ }
