@@ -3,7 +3,7 @@
     flex-direction: column;
     gap: 20px;
     background-color: #feceea;
-    margin: 10% 10% 20% 10%;
+    margin: 4% 10% 20% 10%;
     border: 2px solid green;
     justify-content: center;
     padding-top: 5%;
@@ -28,7 +28,7 @@
     border: 1px solid gray;
 }
 .mainProd {
-    padding: 10% 10%;
+    padding: 5% 10%;
     display: flex;
     flex-direction: column;
     gap: 20px;
